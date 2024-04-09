@@ -17,7 +17,7 @@ To stage all the files > git add -A
 commit them locally > git commit -m "commit message"
 the commit message should me meaningful
 
-push to github - git push origin master
+push to github - git push origin master (in default it will be main branch)
 
 
 check the status > git status 
