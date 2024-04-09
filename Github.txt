@@ -1,0 +1,24 @@
+Git
+
+coolate then and there
+who did the change and what changes has been done
+
+create the local repository - git init
+
+connect to the github repo - git remote add origin < you repo >
+
+check the remote link -git remote -v
+
+itrate 
+
+stage the files > git add day1/github.txt
+To stage all the files > git add -A
+
+commit them locally > git commit -m "commit message"
+the commit message should me meaningful
+
+push to github
+
+
+check the status > git status 
+
